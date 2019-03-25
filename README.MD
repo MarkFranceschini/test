@@ -1,4 +1,1 @@
-# FAKE README
-
-aa
-asdf
+README
